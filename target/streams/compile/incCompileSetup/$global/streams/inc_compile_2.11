@@ -1,0 +1,275 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Bitcoin.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Boss$$anonfun$receive$1.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Boss.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$1.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$2.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$3.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$Miner$1.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$delayedInit$body.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Worker$$anonfun$receive$2.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Worker.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/beginMining$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/beginMining.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/delegate$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/delegate.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/exposeBitcoin$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/exposeBitcoin.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/fetchWork$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/fetchWork.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/goFind$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/goFind.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/keepMining$.class
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/keepMining.class
+binary dependencies:
+3 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /home/bhaveekdesai/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /home/bhaveekdesai/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Bitcoin
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Boss
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Boss$$anonfun$receive$1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main$
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main$$anonfun$1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main$$anonfun$2
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main$$anonfun$3
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main$$anonfun$Miner$1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main$delayedInit$body
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Worker
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Worker$$anonfun$receive$2
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> beginMining
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> beginMining$
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> delegate
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> delegate$
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> exposeBitcoin
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> exposeBitcoin$
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> fetchWork
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> fetchWork$
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> goFind
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> goFind$
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> keepMining
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> keepMining$
+used names:
+128 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> !
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> &&
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> +
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> <=
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> <init>
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> ==
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> >
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> A1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> AbstractFunction1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> AbstractFunction2
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> AbstractFunction3
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Actor
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> ActorSelection
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> ActorSystem
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> AnyRef
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> App
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Array
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> B1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Bitcoin
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Boss
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> ClassTag
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Function1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Integer
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Integer2int
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Main
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> MessageDigest
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Miner
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> None
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Predef
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Product
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Props
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Random
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> ScalaRunTime
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Serializable
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> String
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> UFID
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> UFID_=
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> Worker
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> _hashCode
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> _toString
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> actor
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> actorOf
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> actorRef2Scala
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> actorSelection
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> akka
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> alphanumeric
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> apply
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> args
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> asInstanceOf
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> augmentString
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> beginMining
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> bitcoin
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> bitcoinFound
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> bitcoinMinersBoss
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> bitcoinMinersWorker
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> bitcoinhash
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> boss
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> byteArrayOps
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> caller
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> canBuildFrom
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> charWrapper
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> concat
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> context
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> delegate
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> digest
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> eq
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> exposeBitcoin
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> fetchBitcoin
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> fetchWork
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> fetchedPrefixedZeroes
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> fetchedUFID
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> forall
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> foreach
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> format
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> getBytes
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> getInstance
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> goFind
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> int2Integer
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> intWrapper
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> isDigit
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> isInstanceOf
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> java
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> keepLooking
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> keepMining
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> lang
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> leadingZeroes
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> leadingZeroes_=
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> length
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> map
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> materializeClassTag
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> message
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> mkString
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> myID
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> myName
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> myName_=
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> package
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> prefixedZeroes
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> prefixedZeroes_=
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> println
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> qual$1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> qual$2
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> refArrayOps
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> remoteBoss
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> remoteIP
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> remotePath
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> runtime
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> scala
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> security
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> self
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> sender
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> startsWith
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> take
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> to
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> toInt
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> toScala
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> toString
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> typedProductIterator
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> unchecked
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> util
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> while$1
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> worker
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> workerCount
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> workerCount_=
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> x$3
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> x$4
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> x$5
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> x$6
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> ||
+product stamps:
+24 items
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Bitcoin.class -> lastModified(1442196644000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Boss$$anonfun$receive$1.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Boss.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$1.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$2.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$3.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$$anonfun$Miner$1.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Main.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Worker$$anonfun$receive$2.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/Worker.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/beginMining$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/beginMining.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/delegate$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/delegate.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/exposeBitcoin$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/exposeBitcoin.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/fetchWork$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/fetchWork.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/goFind$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/goFind.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/keepMining$.class -> lastModified(1442196645000)
+/media/bhaveekdesai/MyWork/BitcoinMining/target/scala-2.11/classes/keepMining.class -> lastModified(1442196645000)
+source stamps:
+1 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> hash(b69c16419d508efb662c996159ea956f1a8c3c2a)
+binary stamps:
+3 items
+/home/bhaveekdesai/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar -> lastModified(1441289555000)
+/home/bhaveekdesai/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1437716496000)
+class names:
+3 items
+/home/bhaveekdesai/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar -> akka.actor.Actor
+/home/bhaveekdesai/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBA4+DlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwgE4Ks3QABHNlbGZzcQB+AAtZtfB+dAAHY29udGV4dHVxAH4ACQAAAEhzcQB+AAs4mrtBdAAGbm90aWZ5c3EAfgALUi2V43QAB1JlY2VpdmVzcQB+AAv6DxNkdAALd29ya2VyQ291bnRzcQB+AAuNiSmGdAAEd2FpdHNxAH4AC90w+/Z0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC4A9LTp0AA0kYXNJbnN0YW5jZU9mc3EAfgALY6GdpHQADWV4cG9zZUJpdGNvaW5zcQB+AAsYiFVldAAMcHJvZHVjdEFyaXR5c3EAfgAL9sNV43QABmVxdWFsc3NxAH4AC7zJv7R0AAtmZXRjaGVkVUZJRHNxAH4AC0sLwWh0AAtiZWdpbk1pbmluZ3NxAH4ACwd1ei90AApyZW1vdGVQYXRoc3EAfgAL1n4ErXQADGFzSW5zdGFuY2VPZnNxAH4AC/J59Ax0AA5leGVjdXRpb25TdGFydHNxAH4AC1CZoiN0AApyZW1vdGVCb3Nzc3EAfgALNa547XQADHN5bmNocm9uaXplZHNxAH4AC4ytvAl0AA0kaXNJbnN0YW5jZU9mc3EAfgAL3N5mWnQAB3JlY2VpdmVzcQB+AAt5otUjdAAKcHJlUmVzdGFydHNxAH4AC7C4nWR0AA1hcm91bmRSZWNlaXZlc3EAfgALNQEc3nQACGNhbkVxdWFsc3EAfgALBNGQ3nQAC3Bvc3RSZXN0YXJ0c3EAfgALni3Ks3QABG1haW5zcQB+AAsM7/zEdAAIcG9zdFN0b3BzcQB+AAtHRM+sdAANcHJvZHVjdFByZWZpeHNxAH4AC7qE76p0AA1sZWFkaW5nWmVyb2Vzc3EAfgAL1opdW3QACW5vdGlmeUFsbHNxAH4AC6zWExJ0AAtyZWFkUmVzb2x2ZXNxAH4AC1SkT510AAhkZWxlZ2F0ZXNxAH4AC52Z1mt0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACyV1yb90AARVRklEc3EAfgALx6AfWXQADGlzSW5zdGFuY2VPZnNxAH4AC4Cz9wx0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL1XUE5HQACWZldGNoV29ya3NxAH4AC3tD1x50AA5hcm91bmRQb3N0U3RvcHNxAH4AC2x6LEV0AARCb3Nzc3EAfgALeG9yJHQABjxpbml0PnNxAH4AC3Xi1k90AAhwcmVTdGFydHNxAH4AC90Nn0d0ABVmZXRjaGVkUHJlZml4ZWRaZXJvZXNzcQB+AAukh2WadAAJdW5oYW5kbGVkc3EAfgAL3EgEYnQABG15SURzcQB+AAuwuZEWdAACPT1zcQB+AAuMxdZudAAFY2xvbmVzcQB+AAtKR7eudAAGZ29GaW5kc3EAfgALK21Db3QAB0JpdGNvaW5zcQB+AAuPOjfYdAAOcHJlZml4ZWRaZXJvZXNzcQB+AAvJc7WRdAAOY29weSRkZWZhdWx0JDNzcQB+AAsLb8QEdAAGbXlOYW1lc3EAfgALEbWOZ3QABGNvcHlzcQB+AAtbBF61dAAGc2VuZGVyc3EAfgALffmpknQABE1haW5zcQB+AAuuI0q8dAAHbWVzc2FnZXNxAH4AC1ErbIF0AAh0b1N0cmluZ3NxAH4AC0EFGbB0AARhcmdzc3EAfgALBArl4nQACmtlZXBNaW5pbmdzcQB+AAuHmc2ydAACIT1zcQB+AAuArjNfdAALYml0Y29pbmhhc2hzcQB+AAvswKwadAAIZ2V0Q2xhc3NzcQB+AAtBXygcdAAGV29ya2Vyc3EAfgALNMrtAHQADmNvcHkkZGVmYXVsdCQxc3EAfgAL1YaIBnQABU1pbmVyc3EAfgALCnWTS3QAAm5lc3EAfgALP8U5enQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC2yQmR10AAJlcXNxAH4AC6HphFZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsRf3crdAALZGVsYXllZEluaXRzcQB+AAsZRXEmdAACIyNzcQB+AAue2xU9dAAIZmluYWxpemVzcQB+AAuuad8ZdAAGY2FsbGVyc3EAfgAL2hETcnQADnByb2R1Y3RFbGVtZW50c3EAfgAL4VzsHHQACGhhc2hDb2Rlc3EAfgALgVqZTXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAACnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aq3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDDeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDCAHBzcQB+AMdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aq0wACWluaGVyaXRlZHEAfgCrTAAHcGFyZW50c3EAfgCreHEAfgDLc3EAfgDCAHBzcQB+AMd1cQB+AKYAAAAAc3EAfgDCAHBzcQB+AMd1cQB+AKYAAAAAc3EAfgDCAHBzcQB+AMd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt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
+external apis:
+0 items
+source infos:
+1 items
+/media/bhaveekdesai/MyWork/BitcoinMining/src/main/scala/project1.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8meAxl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9tZWRpYS9iaGF2ZWVrZGVzYWkvTXlXb3JrL0JpdGNvaW5NaW5pbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
